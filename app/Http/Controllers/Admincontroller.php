@@ -291,6 +291,7 @@ else{
 }
 
 }
+
 function bulkupload(){
     $batchId = request('batchId');
     // $notificationData=request('notificationData');

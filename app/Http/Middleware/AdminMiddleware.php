@@ -30,13 +30,5 @@ class AdminMiddleware
         } else {
             return redirect("/"); // Redirect to the login page if not authenticated
         }
-     
-    
-         
-      
-        
-    
-     
-      
-    }
+     }
 }
